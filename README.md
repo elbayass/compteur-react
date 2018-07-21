@@ -1,1 +1,1 @@
-creer un compteur avec react, premier exercice 
+creation d'un compteur react
